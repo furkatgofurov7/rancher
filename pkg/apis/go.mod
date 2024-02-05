@@ -3,6 +3,7 @@ module github.com/rancher/rancher/pkg/apis
 go 1.21
 
 replace (
+	github.com/rancher/eks-operator => github.com/furkatgofurov7/eks-operator v1.4.0-rc1
 	// wrangler bracnhes need to be updated before replace can be removed
 	github.com/rancher/wrangler v1.1.1 => github.com/rancher/wrangler v1.1.1-0.20230831050635-df1bd5aae9df
 	k8s.io/api => k8s.io/api v0.27.9

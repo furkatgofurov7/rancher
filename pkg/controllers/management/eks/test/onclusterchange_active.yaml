@@ -21,6 +21,7 @@ spec:
       diskSize: 20
       ec2SshKey: null
       gpu: false
+      arm: true
       imageId: null
       instanceType: t3.medium
       labels: {}
@@ -80,6 +81,7 @@ status:
         diskSize: 20
         ec2SshKey: null
         gpu: false
+        arm: true
         imageId: null
         instanceType: t3.medium
         labels: {}

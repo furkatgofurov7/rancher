@@ -739,6 +739,8 @@ github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMo
 github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
 github.com/fsnotify/fsnotify v1.6.0 h1:n+5WquG0fcWoWp6xPWfHdbskMCQaFnG6PfBrh1Ky4HY=
 github.com/fsnotify/fsnotify v1.6.0/go.mod h1:sl3t1tCWJFWoRz9R8WJCbQihKKwmorjAbSClcnxKAGw=
+github.com/furkatgofurov7/eks-operator v1.4.0-rc1 h1:9O6MMIMwtl4KP+qLaQChTGsP/7sOJJ3Kc+L2yLJuFDk=
+github.com/furkatgofurov7/eks-operator v1.4.0-rc1/go.mod h1:h5cyeGiLF3hplv/XMpVFip7UaSNXOgP9ZCJbXjiRmvY=
 github.com/fvbommel/sortorder v1.0.1/go.mod h1:uk88iVf1ovNn1iLfgUVU2F9o5eO30ui720w+kxuqRs0=
 github.com/getsentry/raven-go v0.2.0/go.mod h1:KungGk8q33+aIAZUIVWZDr2OfAEBsO49PX4NzFV5kcQ=
 github.com/ghodss/yaml v1.0.0 h1:wQHKEahhL6wmXdzwWG11gIVCkOv05bNOh+Rxn0yngAk=
@@ -1153,8 +1155,6 @@ github.com/rancher/aks-operator v1.3.0-rc1 h1:5y7yblhHIsK+zaNgKj/Pge2/sPO4CoucLF
 github.com/rancher/aks-operator v1.3.0-rc1/go.mod h1:sabCPWK3lSfx2komO9kHtKX0MqRhQP/UkWM8W9+VpcM=
 github.com/rancher/client-go v1.27.4-rancher1 h1:1W1A0bV6KXYbu1z+KIezlfLsHPc1wiasAM42BICVKBM=
 github.com/rancher/client-go v1.27.4-rancher1/go.mod h1:ragcly7lUlN0SRPk5/ZkGnDjPknzb37TICq07WhI6Xc=
-github.com/rancher/eks-operator v1.4.0-rc1 h1:f1grK+YJZ1JzPwuWhWN0lSnZ9+1tDKUCIoerv2dtzG4=
-github.com/rancher/eks-operator v1.4.0-rc1/go.mod h1:XXO7t/0jrKXdL4oqRzwk3fsomw0CCx15zD0OKFfOjzA=
 github.com/rancher/fleet/pkg/apis v0.0.0-20231017140638-93432f288e79 h1:vfrBGudEydmRw7bq85KWquPZki7PjsjzaLozWtbKmCw=
 github.com/rancher/fleet/pkg/apis v0.0.0-20231017140638-93432f288e79/go.mod h1:vqAYcX2NEkVb0AmUlY7luhh1TKIqbE2KRuERCKxW9pE=
 github.com/rancher/gke-operator v1.3.0-rc2 h1:MFtWsNSnyAJb8pr4Hmm+dFKqpo1EAHOZB3G5jmm4WpM=
